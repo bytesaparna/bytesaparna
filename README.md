@@ -53,6 +53,25 @@ frontend codebases meant to be **maintained, extended, and scaled over time**.
 📂 Repo: https://github.com/bytesaparna/legacy
 👉 Live: https://legacy-lit.vercel.app/
 
+[![Legacy](images/legacy.png)]
+
+
+---
+
+
+### 🔹 Domeme (AI + Crypto Platform)
+
+Domeme is a platform that combines meme culture, crypto signals, and AI to
+identify and surface emerging domain name trends before they go mainstream.
+
+✔ AI-assisted trend discovery  
+✔ Community-driven submissions  
+✔ Built with a focus on scalability and experimentation  
+
+📂 Repo: https://github.com/bytesaparna/domeme  
+🔗 Live: https://domeme.vercel.app/
+
+[![Domeme](images/domeme.png)]
 
 
 ### 🔹 Somnia Mines Game   (Web3 Product)
@@ -62,6 +81,9 @@ frontend codebases meant to be **maintained, extended, and scaled over time**.
 
 📂 Repo: https://github.com/bytesaparna/somnia-mines  
 👉 Live: https://somnia-mines.vercel.app/
+
+[![Somnia-mines](images/somnia-mines.png)]
+
 
 ---
 
@@ -81,6 +103,9 @@ frontend codebases meant to be **maintained, extended, and scaled over time**.
 📂 Repo: https://github.com/bytesaparna/gradebot  
 👉 Live: https://gradebot.vercel.app/
 
+[![Gradebot](images/gradebot.png)]
+
+
 
 ---
 
@@ -92,6 +117,9 @@ A modern frontend application focused on **clean UX, scalability, and real-world
 ✔ Built for extensibility and long-term use  
 
 📂 Repo: https://github.com/bytesaparna/atelia  
+
+[![Atelia](images/atelia.png)]
+
 
 ---
 
